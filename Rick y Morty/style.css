@@ -1,0 +1,32 @@
+body{
+    background-color: gray;
+}
+
+.titulo{
+
+    text-align: center;
+    color: green;
+    font-family:Shlop ;
+    font-size: 90px;
+    background-repeat: no-repeat;
+    
+}
+.titulo2{
+    text-align: center;
+    color: green;
+    font-family:Get Schwifty ;
+    font-size: 90px;
+}
+
+.imagen
+{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    padding-left: 200px;
+
+}
+.barra{
+    margin-top: 250px;
+    text-align: center;
+}
